@@ -1,7 +1,5 @@
 # Dio_Desafio_POO_Iphone
-Projeto baseado no desafio da DIO
-
-# [DIO](www.dio.me) - Trilha Java Básico
+Projeto baseado no desafio proposto pela DIO
 
 ## Autores
 - [Gleyson Sampaio](https://github.com/glysns)
