@@ -63,3 +63,13 @@ classDiagram
 ```bash
 https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
 ```` 
+
+### Resultados
+
+1. Criar um diagrama UML que represente as funcionalidades descritas acima.
+
+O diagrama está no arquivo "Diagrama_iphone.PNG" ou o arquivo "Diagrama_Iphone.drawio". O diagrama foi gerado usando o diagrams.net
+
+2. Implementar as classes e interfaces correspondentes em Java (Opcional).
+
+As classes e interfaces estão dentro da pasta "IphonePOO". Eu adicionei a classe "Fábrica" para executar os métodos e interfaces da classe "Iphone" 
